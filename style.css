@@ -1,0 +1,8 @@
+body{
+	font-family: Inconsolata;
+}
+start-button{
+	width: 35px;
+	height: 20px;
+	display: block;
+}
